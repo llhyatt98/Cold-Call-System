@@ -42,9 +42,6 @@ Running the software
     Refer to the user guide for more detailed instructions on how to use our
     software.
 
-Documentation:
-	Documentation regarding the project may be found in the documentation folder. This 	includes a System Design Specification, System Requirements Specification, as well 	as a User and Programmer Documentation.
-
 Requirements
     Requires Python 3.3 to 3.7 and a Mac computer running a modern version of macOS.
     The software was developed and tested on macOS 10.14 (Mojave)
